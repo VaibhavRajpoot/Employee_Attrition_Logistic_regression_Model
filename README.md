@@ -17,7 +17,7 @@ Data Visualization: Matplotlib and seaborn are utilized for data visualization, 
 Getting Started
 To begin using the Employee Attrition Model, follow these steps:
 
-Clone the Repository: git clone 
+Clone the Repository: git clone https://github.com/VaibhavRajpoot/Employee_Attrition_Logistic_regression_Model.git
 Install Dependencies: Ensure you have Python installed, and then install the required libraries listed in requirements.txt using pip install -r requirements.txt.
 Run the Analysis: Execute the main script attrition_analysis.py to perform the analysis and generate insights.
 Usage
