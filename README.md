@@ -18,7 +18,7 @@ Getting Started
 To begin using the Employee Attrition Model, follow these steps:
 
 Clone the Repository: git clone https://github.com/VaibhavRajpoot/Employee_Attrition_Logistic_regression_Model.git
-Install Dependencies: Ensure you have Python installed, and then install the required libraries listed in requirements.txt using pip install -r requirements.txt.
+
 Run the Analysis: Execute the main script attrition_analysis.py to perform the analysis and generate insights.
 Usage
 Data Preparation: Format your dataset appropriately and ensure it contains relevant features for analysis.
@@ -28,8 +28,4 @@ Actionable Insights: Utilize the insights gained to formulate targeted retention
 Contributing
 Contributions to the Employee Attrition Model are welcomed! If you have suggestions for improvements, new features, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-We extend our gratitude to the contributors of the open-source libraries used in this project, whose efforts have been instrumental in its success.
